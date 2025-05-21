@@ -72,4 +72,4 @@ vi)Sequence Diagram
 
 # RESULT:
 
-Thus the "ATM & BANKING SYSTEM" project created,executed & the output was verified:
+Thus the "ATM & BANKING SYSTEM" project created,executed & the output was verified.
